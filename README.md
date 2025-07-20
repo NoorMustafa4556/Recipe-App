@@ -13,13 +13,15 @@ As a Flutter developer, I have created a dynamic and user-friendly recipe sugges
 <h2 align="center">📱 App Screenshots</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Recipe-App/main/assets/images/1.png" alt="1" width="30%" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Recipe-App/main/assets/images/2.png" alt="2" width="30%" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Recipe-App/main/assets/images/3.png" alt="3" width="30%" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Recipe-App/main/assets/images/4.png" alt="4" width="30%" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Recipe-App/main/assets/images/5.png" alt="5" width="30%" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Recipe-App/main/assets/images/6.png" alt="6" width="30%" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Recipe-App/main/assets/images/1.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Recipe-App/main/assets/images/2.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Recipe-App/main/assets/images/3.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Recipe-App/main/assets/images/4.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Recipe-App/main/assets/images/5.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Recipe-App/main/assets/images/6.png" width="30%" />
+  
 </p>
+
 
 
 
