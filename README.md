@@ -4,7 +4,6 @@ As a Flutter developer, I have created a dynamic and user-friendly recipe sugges
 📫 Let's connect! Feel free to reach out to me via email at noormustafa4556@gmail.com or connect with me on LinkedIn to discuss potential collaborations or just chat about all things Flutter!
 <h2 align="center">📱 App Screenshots</h2>
 
-
 <p align="center">
   <img src="./assets/images/1.png" width="30%" style="margin:10px;"/>
   <img src="./assets/images/2.png" width="30%" style="margin:10px;"/>
