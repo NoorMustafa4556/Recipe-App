@@ -6,6 +6,7 @@ As a Flutter developer, I have created a dynamic and user-friendly recipe sugges
 
 
 
+
 <p align="center">
   <img src="./assets/images/1.png" width="30%" style="margin:10px;"/>
   <img src="./assets/images/2.png" width="30%" style="margin:10px;"/>
