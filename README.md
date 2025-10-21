@@ -18,8 +18,50 @@ As a Flutter developer, I have created a dynamic and user-friendly recipe sugges
   <img src="./assets/images/5.png" width="30%" style="margin:10px;"/>
   <img src="./assets/images/6.png" width="30%" style="margin:10px;"/>
 </p>
+ ---
+
+## 📂 Folder Structure
+```bash
+lib/
+├── Components/
+│   └── useAbleComp.dart  # Reusable UI components
+├── Models/
+│   └── RecipeModel.dart  # Data models (e.g., for API responses)
+├── utilites/             # Utility functions or helper classes
+│   ├── Api_Hitting/      # API related logic
+│   │   └── APIs.dart     # Actual API calls/services
+│   └── URLs/             # API endpoints or static URLs
+│       └── url.dart      # Definitions of URLs
+├── DetailsScreen.dart    # Specific screen for showing details
+├── HomeScreen.dart       # The main home screen of the app
+├── LoginScreen.dart      # User login screen
+├── SignupScreen.dart     # User registration screen
+├── SplashScreen.dart     # Initial splash screen
+└── main.dart             # Main entry point of the Flutter application
 
 
+```
+## Installation
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/NoorMustafa4556/What-App-UI.git
+    ```
+2.  **Navigate to the project directory:**
+    ```bash
+    cd Whats-App-UI
+    ```
+3.  **Install dependencies:**
+    ```bash
+    flutter pub get
+    ```
+4.  **Run the app on an emulator or a physical device:**
+    ```bash
+    flutter run
+    ```
+Select your emulator/simulator or connect a physical device.
+
+---
 
  ---
 # 👋🏻  Hi, I'm Noor Mustafa
