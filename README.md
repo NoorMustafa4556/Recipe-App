@@ -45,11 +45,11 @@ lib/
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/NoorMustafa4556/What-App-UI.git
+    git clone https://github.com/NoorMustafa4556/Recipe-App.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd Whats-App-UI
+    cd Recipe-App
     ```
 3.  **Install dependencies:**
     ```bash
